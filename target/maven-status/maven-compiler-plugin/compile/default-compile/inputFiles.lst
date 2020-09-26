@@ -1,0 +1,11 @@
+/Users/dennismacpro/D8TAM/poc/poc-api/src/main/java/com/d8tam/daedalusapi/accounts/domain/models/Account.java
+/Users/dennismacpro/D8TAM/poc/poc-api/src/main/java/com/d8tam/daedalusapi/accounts/infrastructure/http/AgentController.java
+/Users/dennismacpro/D8TAM/poc/poc-api/src/main/java/com/d8tam/daedalusapi/accounts/infrastructure/jpa/AgentJpaRepository.java
+/Users/dennismacpro/D8TAM/poc/poc-api/src/main/java/com/d8tam/daedalusapi/accounts/domain/models/Agent.java
+/Users/dennismacpro/D8TAM/poc/poc-api/src/main/java/com/d8tam/daedalusapi/accounts/domain/services/AgentService.java
+/Users/dennismacpro/D8TAM/poc/poc-api/src/main/java/com/d8tam/daedalusapi/accounts/infrastructure/configurations/CorsConfiguration.java
+/Users/dennismacpro/D8TAM/poc/poc-api/src/main/java/com/d8tam/daedalusapi/accounts/infrastructure/jpa/AccountJPARepository.java
+/Users/dennismacpro/D8TAM/poc/poc-api/src/main/java/com/d8tam/daedalusapi/accounts/infrastructure/http/AccountController.java
+/Users/dennismacpro/D8TAM/poc/poc-api/src/main/java/com/d8tam/daedalusapi/DaedalusApiApplication.java
+/Users/dennismacpro/D8TAM/poc/poc-api/src/main/java/com/d8tam/daedalusapi/accounts/infrastructure/async/AsyncRunner.java
+/Users/dennismacpro/D8TAM/poc/poc-api/src/main/java/com/d8tam/daedalusapi/accounts/domain/services/AccountService.java
